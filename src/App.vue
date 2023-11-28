@@ -4,9 +4,6 @@ import data from "./assets/data.json";
 
 <template>
   <div>
-    <select id="fruitDropdown">
-      <!-- 这里将会动态添加选项 -->
-    </select>
   </div>
 </template>
 
